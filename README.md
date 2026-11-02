@@ -3,7 +3,7 @@
 A simple button behavior for GDevelop.
 
 Features:
-- Detects clicks on sprites.
+- Detects clicks and hover events on sprites.
 - Automatically animates sprites.
 - Works only with Sprite objects.
 
